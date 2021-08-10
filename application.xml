@@ -5,8 +5,12 @@ public static void main()
 	//code or logic are written here
 	
 }
-public static void main(String[] args) {
 
+public static void main(String[] args) {
+=======
+static public void main(String... args){  
+System.out.println("hello github repos classroom");  
+}  
         // Creates a reader instance which takes
         // input from standard input - keyboard
         Scanner reader = new Scanner(System.in);
