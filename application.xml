@@ -1,4 +1,5 @@
 working with the code repositories
+<<<<<<< HEAD
 working with the git commands
 New Changes
 Services are included in the main application
@@ -6,3 +7,28 @@ Purchases
 Bond Purchases
 Payment Gateway
 Test Changes for git adv.commands
+=======
+workingwith the git commands
+public static void main()
+{
+	//code or logic are written here
+	
+}
+
+public static void main(String[] args) {
+=======
+static public void main(String... args){  
+System.out.println("hello github repos classroom");  
+}  
+        // Creates a reader instance which takes
+        // input from standard input - keyboard
+        Scanner reader = new Scanner(System.in);
+        System.out.print("Enter a number: ");
+
+        // nextInt() reads the next integer from the keyboard
+        int number = reader.nextInt();
+
+        // println() prints the following line to the output screen
+        System.out.println("You entered: " + number);
+    }
+>>>>>>> 05d939e10dca23165a4113cdbf78e1113f61107b
